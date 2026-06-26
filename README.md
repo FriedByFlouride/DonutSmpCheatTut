@@ -24,3 +24,13 @@ Once you opened the app change the minecraft version to 1.21.11 then click insta
 # Third Step
 ### put all of the jar files into the mods folder
 Use this simple picture tutorial to do so!
+
+![Alt text](images/1.png)   
+
+![Alt text](images/2.png)
+
+![Alt text](images/3.png)
+
+![Alt text](images/4.png)
+
+![Alt text](images/5.png)   
