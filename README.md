@@ -63,3 +63,6 @@ Baritone - https://glazedclient.com/downloads/
 
 # How to install Baritone from Glazed Clients Website
 
+![Alt text](images/9.png)
+
+![Alt text](images/10.png)
