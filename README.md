@@ -35,3 +35,31 @@ Use this simple picture tutorial to do so!
 
 ![Alt text](images/5.png)   
 
+# Fourth Step
+### Turn these settings on to have high chance of not getting banned
+Use this simple picture tutorial to do so!
+
+(Click RightShift at the start menu to see this)
+![Alt text](images/6.png)
+
+![Alt text](images/7.png)
+
+![Alt text](images/8.png)
+
+# Last thing
+These file links and files will not be updated on this Repo use these links to get the most recent files
+
+OPSEC - https://www.curseforge.com/minecraft/mc-mods/opsec/files/7953789
+
+Meteor Client - https://www.meteorclient.com/
+
+Glazed Addon - https://glazedclient.com/
+
+Fabric Installer - https://fabricmc.net/use/installer/
+
+Fabric Api - https://www.curseforge.com/minecraft/mc-mods/fabric-api
+
+Baritone - https://glazedclient.com/downloads/
+
+# How to install Baritone from Glazed Clients Website
+
