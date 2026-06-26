@@ -1,5 +1,5 @@
 # DonutSmpCheatTut
-Many people wonder how to cheat on Donut smp, many people do find out how to, but usually gets banned anyways
+Many people wonder how to cheat on Donut smp, many people do find out how to, but usually gets banned anyways. Their is a solution, and this repo will teach you how!
 
 # First Step
 ### Download these following files/apps
